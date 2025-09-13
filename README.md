@@ -66,5 +66,10 @@ After analysing the simulated output,
 (iv)Write your inference.
 
 ## Simulation
+<img width="1505" height="543" alt="Screenshot 2025-09-13 071359" src="https://github.com/user-attachments/assets/dac54851-cda2-424d-ab08-35de6f5b2a43" />
 ## Output
+<img width="1906" height="889" alt="Screenshot 2025-09-13 091620" src="https://github.com/user-attachments/assets/ec874bdd-4aba-4857-8032-559c48445657" />
+<img width="1911" height="891" alt="Screenshot 2025-09-13 091925" src="https://github.com/user-attachments/assets/9f38ac45-be94-4c5e-9a67-a2d9e315f702" />
+<img width="1911" height="886" alt="Screenshot 2025-09-13 092220" src="https://github.com/user-attachments/assets/97999d91-a60a-4cce-a4ec-fa1a3128bbf9" />
 ## Result
+Thus the Full wave rectifier controlled by a thyristor is designed and simulated
